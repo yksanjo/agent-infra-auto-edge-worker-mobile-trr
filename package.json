@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-auto-edge-worker-mobile-trr",
+  "version": "1.0.0",
+  "description": "Next-generation developer tool",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "auto-edge-worker-mobile-trr"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-auto-edge-worker-mobile-trr.git"
+  }
+}
